@@ -1,4 +1,3 @@
-
-public class moduleinfo {
-
+module BankingApplication {
+	requires java.sql;
 }
